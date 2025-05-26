@@ -6,9 +6,9 @@ The Spring Boot Java application was deployed using Docker. The application used
 
 ## Prerequisites
 Before running the application, ensure the following is installed:
-- Docker
--Docker compose
--Maven (could also edit Dockerfile to include the install)
+1. Docker
+2. Docker compose
+3. Maven (could also edit Dockerfile to include the install)
 
 ## Setup Instructions
 1.	Prepare the necessary files:
