@@ -16,9 +16,8 @@ Prepare the necessary files:
   2. Docker-compose
   3. Pom.xml
   4. src/main/java/com/example/LogController.java
-  5. src/main/java/com/example/Application.java, need to define Spring Boot main class
+  5. src/main/java/com/example/Application.java, needed to define Spring Boot main class
 
 Build the Application
-  1. Install Maven or edit Dockerfile to include the install
-  2. Build the application using ‘docker compose up –build’
+ 1. Build the application using ‘docker compose up –build’
 
